@@ -46,7 +46,7 @@
  	 	 	 	"eng": "If you liked the game, please consider donation :)"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Necesitas al menos nivel 5 para acceder al comerciante de cosméticos",
+ 	 	 	 	"trans": "Necesitas tener nivel 5 al menos para ver al comerciante de cosméticos",
  	 	 	 	"eng": "You need to be at least level 5 to access cosmetic merchant"
  	 	 	}
  	 	},
@@ -72,7 +72,7 @@
  	 	 	 	"eng": "Terminal"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "Para progresar al área siguiente, tienes que obtener y usar fragmentos de la llave secreta en las mazmorras, \r\n        y usar la Terminal para crear la llave de dicha área",
+ 	 	 	 	"trans": "Para avanzar a la próxima área, tienes que obtener y usar fragmentos de la llave secreta en las mazmorras, \r\n        y usar el Terminal para crear la llave de dicha área",
  	 	 	 	"eng": "To progress to the next area, you need to use get Secret Key Fragments from dungeons, \r\n        and use the Terminal to Brute Force the key for next area"
  	 	 	},
  	 	 	"description": {
@@ -80,7 +80,7 @@
  	 	 	 	"eng": "Your personal computer, although it's a little outdated, it can get the job done with enough patience"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Necesita al menos nivel 5 para acceder al terminal",
+ 	 	 	 	"trans": "Necesitas tener nivel 5 al menos para acceder al terminal",
  	 	 	 	"eng": "You need to be at least level 5 to access terminal"
  	 	 	}
  	 	},
@@ -96,7 +96,7 @@
  	 	 	 	"eng": "Bank of Arasaka"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Necesitas al menos nivel 5 para acceder al banco",
+ 	 	 	 	"trans": "Necesitas tener nivel 5 al menos para acceder al banco",
  	 	 	 	"eng": "You need to be at least level 5 to access bank"
  	 	 	}
  	 	},
@@ -116,11 +116,11 @@
  	 	 	 	"eng": "Lee's Trading Post"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Una tienda de comercio familiar que te permite comerciar con lo que has recolectado",
+ 	 	 	 	"trans": "Una tienda de comercio familiar que te permite intercambiar con lo que has recolectado",
  	 	 	 	"eng": "A family run trading shop that lets you trade with what they have found while scavenging"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Necesitas al menos nivel 10 para acceder al comerciante",
+ 	 	 	 	"trans": "Necesitas tener nivel 10 al menos para ver al comerciante",
  	 	 	 	"eng": "You need to be at least level 10 to access merchant"
  	 	 	}
  	 	},
@@ -199,7 +199,7 @@
  	 	 	 	 	"eng": "Go to Hyper Train Central Station"
  	 	 	 	},
  	 	 	 	"tut": {
- 	 	 	 	 	"trans": "Empieza aquí tu aventura en busca de recompensas épicas",
+ 	 	 	 	 	"trans": "Empieza tu aventura en busca de recompensas épicas aquí",
  	 	 	 	 	"eng": "Start your adventure for epic loot here"
  	 	 	 	},
  	 	 	 	"description": {
@@ -256,7 +256,7 @@
  	 	 	 	"eng": "Shangri-La Market Street"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Player Market]\r\n        El famoso mercadillo de Shangri-La. Montones de puestos comerciales llenan la calle.\r\n        Tal vez puedas encontrar algo que necesites o poner una tienda por tu cuenta.",
+ 	 	 	 	"trans": "[Player Market]\r\n        El famoso mercadillo de Shangri-La. Hay un montón de puestos comerciales llenan la calle.\r\n        Tal vez puedas encontrar algo que necesites o situar una tienda por tu cuenta.",
  	 	 	 	"eng": "[Player Market]\r\n        The famous market street in Shangri-La. Loads of market stalls fill the street.\r\n        Maybe you can find something you need or set up shop yourself."
  	 	 	},
  	 	 	"toMainHub": {
@@ -468,11 +468,11 @@
  	 	},
  	 	"healing1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Dolor fuera",
+ 	 	 	 	"trans": "Adiós Dolor",
  	 	 	 	"eng": "Pain Away"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "¿Te duele la cabeza? ¡Usa Pain Away™ para aliviar tu dolor!",
+ 	 	 	 	"trans": "¿Te duele la cabeza? ¡Usa Adiós Dolor™ para aliviar tu dolor!",
  	 	 	 	"eng": "Do you have headache? Use Pain Away™ to relieve your pain!"
  	 	 	}
  	 	},
@@ -482,7 +482,7 @@
  	 	 	 	"eng": "Degraded Nano Repair Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Viejo nano bot de reparación, usualmente utilizado para reparar pequeños dispositivos tecnológicos",
+ 	 	 	 	"trans": "Un nano bot de reparación viejo, usualmente utilizado para reparar dispositivos tecnológicos pequeño",
  	 	 	 	"eng": "An old nano repair bot, usually used to repair small tech devices."
  	 	 	}
  	 	},
@@ -492,7 +492,7 @@
  	 	 	 	"eng": "Degraded Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Viejo Nano bot médico, ¡inyectalo para curar cualquier(*aplican condiciones) herida!",
+ 	 	 	 	"trans": "Un nano bot médico viejo, ¡inyéctalo para curar cualquier herida! (*aplican condiciones)",
  	 	 	 	"eng": "Old nano medic bot is used to cure any (*conditions apply) injury!"
  	 	 	}
  	 	},
@@ -502,7 +502,7 @@
  	 	 	 	"eng": "Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "¡inyéctalo para curar cualquier(*aplican condiciones) herida!",
+ 	 	 	 	"trans": "¡Inyéctalo para curar cualquier herida! (*aplican condiciones)",
  	 	 	 	"eng": "Inject it to cure any(*conditions apply) injury!"
  	 	 	}
  	 	},
@@ -512,7 +512,7 @@
  	 	 	 	"eng": "Military Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Nano máquinas inyectables de uso militar estándar, capaces de curar heridas durante el combate",
+ 	 	 	 	"trans": "Unas nano máquinas inyectables de uso militar estándar. Son capaces de curar heridas durante el combate",
  	 	 	 	"eng": "Injectable nano machines that are standard issue for military use. They are capable of patching injuries while in combat."
  	 	 	}
  	 	},
@@ -522,7 +522,7 @@
  	 	 	 	"eng": "Advanced Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Nano máquinas inyectables que se usan en el ejército. Son capaces de curar heridas durante el combate.",
+ 	 	 	 	"trans": "Unas nano máquinas inyectables que se usan en el ejército. Son capaces de curar heridas durante el combate.",
  	 	 	 	"eng": "Injectable nano machines that are standard issue for military use. They're capable of patching injuries while in combat."
  	 	 	}
  	 	},
@@ -532,7 +532,7 @@
  	 	 	 	"eng": "High Quality Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "nano máquinas inyectables de uso militar avanzado, capaces de curar heridas en combate",
+ 	 	 	 	"trans": "Unas nano máquinas inyectables de uso militar avanzado. Son capaces de curar heridas en combate.",
  	 	 	 	"eng": "Injectable nano machines that are standard issue for military use. They're capable of patching injuries while in combat."
  	 	 	}
  	 	},
@@ -542,17 +542,17 @@
  	 	 	 	"eng": "Rare Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "nano maquinas de uso militar avanzado, capaces de curar heridas en combate",
+ 	 	 	 	"trans": "Unas nano maquinas de uso militar avanzado. Son capaces de curar heridas en combate.",
  	 	 	 	"eng": "Injectable nano machines that are standard issue for military use. They're capable of patching injuries while in combat."
  	 	 	}
  	 	},
  	 	"healingArea1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Pain Away en Aerosol",
+ 	 	 	 	"trans": "Adiós Dolor en Aerosol",
  	 	 	 	"eng": "Pain Away Spray"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "¿Tienen tú y tu amigo dolor de cabeza? ¡Usa Pain Away Spray™ para aliviar su dolor!",
+ 	 	 	 	"trans": "¿Tú y tu amigo tienen dolor de cabeza? ¡Usa Adiós Dolor en Aerosol™ para aliviar su dolor!",
  	 	 	 	"eng": "Do you and your friends both have headaches? Use Pain Away Spray™ to relief your pain!"
  	 	 	}
  	 	},
@@ -562,7 +562,7 @@
  	 	 	 	"eng": "Degraded Repair drone"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Dron de reparación deteriorado, capaz de reparar o curar a jugadores cercanos",
+ 	 	 	 	"trans": "Un dron de reparación deteriorado, capaz de reparar o curar a jugadores cercanos",
  	 	 	 	"eng": "Old repair drone, capable of repairing or heal nearby players"
  	 	 	}
  	 	},
@@ -572,7 +572,7 @@
  	 	 	 	"eng": "Degraded nano medic drone"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Nano dron viejo, capaz de desplegar miles de nano máquinas para curar a jugadores cercanos",
+ 	 	 	 	"trans": "Un nano dron viejo, capaz de desplegar miles de nano máquinas para curar a jugadores cercanos",
  	 	 	 	"eng": "Old nano drone, capable of dispatching thousands of nano machines to heal nearby players"
  	 	 	}
  	 	},
@@ -598,7 +598,7 @@
  	 	},
  	 	"healingArea6": {
  	 	 	"name": {
- 	 	 	 	"trans": "Nano dron médico Avanzado",
+ 	 	 	 	"trans": "Nano dron médico avanzado",
  	 	 	 	"eng": "Advance Nano medic drone"
  	 	 	},
  	 	 	"description": {
@@ -632,7 +632,7 @@
  	 	 	 	"eng": "Medical Tech Parts"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Trozos y piezas de tecnología médica usada, se pueden usar para fabricar objetos de curación si sabes como hacerlo",
+ 	 	 	 	"trans": "Trozos y piezas de tecnología médica usada, se pueden usar para fabricar objetos de curación si sabes cómo hacerlo",
  	 	 	 	"eng": "Bits and pieces of used medical tech. This can be used to craft healing items if you understand how"
  	 	 	}
  	 	},
@@ -658,11 +658,11 @@
  	 	},
  	 	"afkAcceleration": {
  	 	 	"name": {
- 	 	 	 	"trans": "Transmisor de Aceleración Sináptica",
+ 	 	 	 	"trans": "Transmisor de aceleración sináptica",
  	 	 	 	"eng": "Synaptic Acceleration Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Transmite ventajas a todos los usuarios ciberneticamente conectados, overclockea sus procesadores sinápticos, lo que permite una capacidad mental super-humana por un corto periodo de tiempo.\r\n        \r\n        Otorga una Mejora Global a todos los jugadores en línea cuando se usa, permitiendoles completar trabajos AFK un +5% más rapido durante 10 minutos (acumulable)",
+ 	 	 	 	"trans": "Transmite ventajas a todos los usuarios cibernéticamente conectados, overclockea sus procesadores sinápticos, lo que permite una capacidad mental super-humana por un corto período de tiempo.\r\n        \r\n        Otorga una mejora global a todos los jugadores en línea cuando se usa, permitiéndoles completar trabajos AFK un +5% más rapido durante 10 minutos (acumulable)",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, overclocking their synaptic processors thus allowing super-human mental capacity for short period of time.\r\n        \r\n        When used, gives Global Buff to all players online, allowing them to complete AFK tasks in +5% speed for 10 minutes (stackable)"
  	 	 	}
  	 	},
@@ -672,27 +672,27 @@
  	 	 	 	"eng": "Rare Synaptic Acceleration Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Transmite ventajas a todos los usuarios ciberneticamente conectados, overclockea sus procesadores sinápticos permitiendo una capacidad mental super-humana por un corto periodo de tiempo.\r\n        \r\n        Otorga una Mejora Global a todos los jugadores en línea cuando se usa, permitiendoles completar trabajos AFK un  +40% más rapido durante 20 minutos (acumulable)",
+ 	 	 	 	"trans": "Transmite ventajas a todos los usuarios cibernéticamente conectados, overclockea sus procesadores sinápticos permitiendo una capacidad mental super-humana por un corto período de tiempo.\r\n        \r\n        Otorga una mejora global a todos los jugadores en línea cuando se usa, permitiéndoles completar trabajos AFK un +40% más rapido durante 20 minutos (acumulable)",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, overclocking their synaptic processors thus allowing super-human mental capacity for short period of time.\r\n        \r\n        When used, gives Global Buff to all players online, allowing them to complete AFK tasks in +40% speed for 20 minutes (stackable)"
  	 	 	}
  	 	},
  	 	"expMultiplier": {
  	 	 	"name": {
- 	 	 	 	"trans": "Transmisor de optimización de Cortex frontal",
+ 	 	 	 	"trans": "Transmisor de optimización de córtex frontal",
  	 	 	 	"eng": "Frontal Cortex Optimization Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Transmite ventajas a todos los usuarios ciberneticamente conectados, mejora sus integraciones de la Corteza Frontal con softwares ciberneticos instalados, lo que permite incrementar la capacidad de memoria del usuario.\r\n\r\n        Al utilizarlo, otorga una Mejora global a todos los jugadores en línea, incrementando la EXP ganada en un 180% durante 20 minutos\r\n        ",
+ 	 	 	 	"trans": "Transmite ventajas a todos los usuarios cibernéticamente conectados, mejora sus integraciones del córtex frontal con softwares cibernéticos instalados, lo que permite incrementar la capacidad de memoria del usuario.\r\n\r\n        Al utilizarlo, otorga una mejora global a todos los jugadores en línea, incrementando la EXP ganada en un 180% durante 20 minutos\r\n        ",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, enhancing their Frontal Cortex integration with cyberwares installed, thus increasing memory capability of the user.\r\n\r\n        When used, gives Global Buff to all players online, increase EXP gained to 180% for 20 minutes\r\n        "
  	 	 	}
  	 	},
  	 	"btcMultiplier": {
  	 	 	"name": {
- 	 	 	 	"trans": "Exploit transmisor de transaccion",
+ 	 	 	 	"trans": "Exploit transmisor de transacción",
  	 	 	 	"eng": "Transaction Exploit Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Transmite ventajas a todos los usuarios ciberneticamente conectados, potencia su algoritmo de intercambio temporalmente, lo que permite a los usuarios recibir un extra de  ${Config.CURRENCY_NAME}.\r\n\r\n        Al utilizarlo, otorga una mejora global a todos los jugadores en línea, incrementando los Bitcoins ganados en un 40% durante 20 minutes (acumulable)\r\n        ",
+ 	 	 	 	"trans": "Transmite ventajas a todos los usuarios cibernéticamente conectados, potencia su algoritmo de intercambio temporalmente, lo que permite a los usuarios recibir un extra de  ${Config.CURRENCY_NAME}.\r\n\r\n        Al utilizarlo, otorga una mejora global a todos los jugadores en línea, incrementando los BitCoins ganados en un 40% durante 20 minutos (acumulable)\r\n        ",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, argument their transaction algorithm temporary, allowing user to receive bonus  ${Config.CURRENCY_NAME}.\r\n\r\n        When used, gives Global Buff to all players online, increase BitCoin gained by 40% for 20 minutes (stackable)\r\n        "
  	 	 	}
  	 	},
@@ -702,17 +702,17 @@
  	 	 	 	"eng": "AI Core"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Unidad de Procesamiento Neurológico (NPU) de uso comercial. Viene con una IA para diferentes usos. \r\n        Puedes usarla para desplegar un bot que recoja recursos en las mazmorras",
+ 	 	 	 	"trans": "Una Unidad de Procesamiento Neurológico (UPN) de uso comercial. Viene con una IA para diferentes usos. \r\n        Puedes usarla para desplegar un bot que recoja recursos en las mazmorras",
  	 	 	 	"eng": "Commercially used Neural Processing Unit (NPU). Comes with general purpose AI. \r\n        You can use this to deploy a farming bot to dungeon for you."
  	 	 	}
  	 	},
  	 	"ammo1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Célula energética",
+ 	 	 	 	"trans": "Célula de energía",
  	 	 	 	"eng": "Energy Cell"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Dispositivo de almacenamiento de energía portátil, Lo puedes usar como munición desechable para tus armas especiales",
+ 	 	 	 	"trans": "Un dispositivo de almacenamiento de energía portátil, puedes usarla como munición desechable para tus armas especiales",
  	 	 	 	"eng": "Portable energy storage device, it can be used as consumable ammo for your Special Weapons"
  	 	 	}
  	 	},
@@ -722,7 +722,7 @@
  	 	 	 	"eng": "Anti Matter Charge"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Generador miniatura de energía antimateria de alta tecnología, de un solo uso. \r\n        Este objeto produce cantidades enormes de energía. Puedes usarlo como munición para tu arma destructiva. ",
+ 	 	 	 	"trans": "Un generador miniatura de energía antimateria de alta tecnología y de un solo uso. \r\n        Este objeto produce cantidades enormes de energía. Puedes usarlo como munición para tu arma destructiva. ",
  	 	 	 	"eng": "High-tech, miniaturized, one-time use, antimatter energy generator. \r\n        This item produces enormous amounts of power. You can use this as ammunition for your destructive weapon. "
  	 	 	}
  	 	},
